@@ -39,4 +39,4 @@
 
 [![Linkedin: Matheus Wesley](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/matheus-wesley-2b9014219/)]
 [![Gmail Matheus Wesley ](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.matheuswesley@gmail.com)]
-[![GitHub Matheus Wesley]( https://img.shields.io/github/followers/DevMatheusWesley?label=follow&style=social)]([[LINK-DO-SEU-GITHUB](https://github.com/DevMatheusWesley)]
+[![GitHub Matheus Wesley]( https://img.shields.io/github/followers/DevMatheusWesley?label=follow&style=social)](https://github.com/DevMatheusWesley)
