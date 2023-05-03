@@ -37,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Matheus Wesley](https://img.shields.io/badge/-Matheus%Wesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-wesley-2b9014219/)](https://www.linkedin.com/in/matheus-wesley-2b9014219/)
+[![Linkedin: Matheus Wesley](https://img.shields.io/badge/-MatheusWesley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-wesley-2b9014219/)](https://www.linkedin.com/in/matheus-wesley-2b9014219/)
 [![Gmail Matheus Wesley ](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.matheuswesley@gmail.com)](contato.matheuswesley@gmail.com)
 [![GitHub Matheus Wesley]( https://img.shields.io/github/followers/DevMatheusWesley?label=follow&style=social)](https://github.com/DevMatheusWesley)
