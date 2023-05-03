@@ -5,7 +5,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="[Fam]([https://famonline.instructure.com/])"></a>.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas ** na Fam <a href="[Fam]([https://famonline.instructure.com/])"></a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Front-End, CSS, HTML, JAVA-SCRIPT, BANDO DE DADOS, REDE DE COMPUTADORES E INICIANTE EM PYTHON**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
