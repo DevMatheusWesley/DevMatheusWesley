@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas na Fam**  <a href="[Fam]([https://famonline.instructure.com/])"></a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Front-End, CSS, HTML, JAVA-SCRIPT, BOOTSTRAP, REACT BANCO DE DADOS, REDE DE COMPUTADORES E INICIANTE EM PYTHON**.
+- 🌱 &nbsp; Aprendendo mais sobre **Front-End, CSS, HTML, JAVA-SCRIPT, BOOTSTRAP, REACT, BANCO DE DADOS, REDE DE COMPUTADORES E INICIANTE EM PYTHON**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
